@@ -10,4 +10,4 @@ Create a data model using DAX funtions for accurate analysis and reporting
 
 PBIX File Link:https://drive.google.com/file/d/1CKl7WGIhyPs0h6HHF7Mt9gkQp04wJ72B/view?usp=sharing
 PDF File Link:https://drive.google.com/file/d/1Q1kuU9L4wr5EKch5TzesAL5hJOD9shtJ/view?usp=sharing
-PPT Link:
+PPT Link:https://docs.google.com/presentation/d/1B4GOvLSuFpOHPv9UGTat2T1hhWhEfJiU/edit?usp=sharing&ouid=108198024086544108965&rtpof=true&sd=true
