@@ -1,14 +1,14 @@
 # UNP-Project_BI-with-Power-BI_Covid-19
 
-Completed the project as a part of my Power BI Internship with United Network of Professionals(UNP)
+I completed this project as part of my BI with PowerBI internship with the United Network of Professionals (UNP).
 
-Key Highlights:
+About the data: The dataset used is a global COVID-19 dataset, encompassing information on cases, deaths, vaccinations, hospitalizations, and related metrics worldwide.
 
-1.Contributed to the Development of Intricate KPIs and Dynamic, Interactive Power BI interfaces.
+Transformation: Utilized Power BI for data transformations. Cleaned and filtered data to ensure accuracy. Merged tables to consolidate relevant information. Derived new columns to calculate rates (death rate, vaccination rate, hospitalization rate).
 
-2.Collaborated with Stakeholders to understand their requirements and translated them into effective Power BI Solutions.
+Calculated key metrics using DAX measures: Global Death Rate Total Vaccinations Vaccination Rate Hospitalization Rate Total Deaths Total Cases
 
-3.Ardently involved in Creating Data Model, Implemented Data Transformations and Calculations using DAX for accurate analysis and Reporting.
+Created a dynamic dashboard with: Line charts showcasing total cases and deaths over time. Slicers for region and time period selection. Bubble map illustrating deaths by continent. Bar chart displaying the top 5 countries by stringency index Bar chart highlighting the top 5 continents by the Human Development Index (HDI) Table summarizing figures by continent, including vaccination rate, death rate, total cases, and total deaths
 
 PBIX File Link:https://drive.google.com/file/d/1_yB85Pmn56AlrCimf58MtEmWvpv7Tt_W/view?usp=sharing
 PDF File Link:https://drive.google.com/file/d/1cO5ITLTH31MMCWVFC8njxupQ7AETfUH_/view?usp=sharing
