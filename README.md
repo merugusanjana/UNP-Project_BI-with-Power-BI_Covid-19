@@ -1,4 +1,4 @@
-# UNP-Project_BI-with-Power-BI_Covid-19
+# UNP-Project_BI-with-Power-BI_Global-Covid-19
 
 I completed this project as part of my BI with PowerBI internship with the United Network of Professionals (UNP).
 
